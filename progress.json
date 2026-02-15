@@ -1,8 +1,8 @@
 {
   "project": "euler-combinatorics",
   "total": 500,
-  "completed": 100,
-  "currentBatch": 3,
+  "completed": 150,
+  "currentBatch": 4,
   "currentProblem": 0,
   "batches": [
     {
@@ -23,8 +23,8 @@
       "batch": 3,
       "range": "101-150",
       "theme": "二项式定理",
-      "status": "pending",
-      "completed": 0
+      "status": "completed",
+      "completed": 50
     },
     {
       "batch": 4,
@@ -77,5 +77,5 @@
     }
   ],
   "startTime": "2026-02-15T12:48:00+08:00",
-  "lastUpdate": "2026-02-15T05:23:46Z"
+  "lastUpdate": "2026-02-15T05:58:00Z"
 }
