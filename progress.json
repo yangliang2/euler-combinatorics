@@ -1,7 +1,7 @@
 {
   "project": "euler-combinatorics",
   "total": 500,
-  "completed": 300,
+  "completed": 350,
   "currentBatch": 7,
   "currentProblem": 0,
   "batches": [
@@ -51,8 +51,8 @@
       "batch": 7,
       "range": "301-350",
       "theme": "图论基础",
-      "status": "pending",
-      "completed": 0
+      "status": "completed",
+      "completed": 50
     },
     {
       "batch": 8,
@@ -77,5 +77,5 @@
     }
   ],
   "startTime": "2026-02-15T12:48:00+08:00",
-  "lastUpdate": "2026-02-15T08:50:33+00:00"
+  "lastUpdate": "2026-02-15T09:00:00+00:00"
 }
