@@ -1,8 +1,8 @@
 {
   "project": "euler-combinatorics",
   "total": 500,
-  "completed": 350,
-  "currentBatch": 7,
+  "completed": 400,
+  "currentBatch": 8,
   "currentProblem": 0,
   "batches": [
     {
@@ -58,8 +58,8 @@
       "batch": 8,
       "range": "351-400",
       "theme": "组合设计",
-      "status": "pending",
-      "completed": 0
+      "status": "completed",
+      "completed": 50
     },
     {
       "batch": 9,
@@ -77,5 +77,5 @@
     }
   ],
   "startTime": "2026-02-15T12:48:00+08:00",
-  "lastUpdate": "2026-02-15T09:00:00+00:00"
+  "lastUpdate": "2026-02-15T17:20:01+08:00"
 }
