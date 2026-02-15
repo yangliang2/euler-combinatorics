@@ -1,21 +1,81 @@
 {
   "project": "euler-combinatorics",
   "total": 500,
-  "completed": 50,
-  "currentBatch": 1,
-  "currentProblem": 50,
+  "completed": 100,
+  "currentBatch": 3,
+  "currentProblem": 0,
   "batches": [
-    {"batch": 1, "range": "001-050", "theme": "基础计数", "status": "completed", "completed": 50},
-    {"batch": 2, "range": "051-100", "theme": "排列组合", "status": "pending", "completed": 0},
-    {"batch": 3, "range": "101-150", "theme": "二项式定理", "status": "pending", "completed": 0},
-    {"batch": 4, "range": "151-200", "theme": "容斥原理", "status": "pending", "completed": 0},
-    {"batch": 5, "range": "201-250", "theme": "递推关系", "status": "pending", "completed": 0},
-    {"batch": 6, "range": "251-300", "theme": "生成函数", "status": "pending", "completed": 0},
-    {"batch": 7, "range": "301-350", "theme": "图论基础", "status": "pending", "completed": 0},
-    {"batch": 8, "range": "351-400", "theme": "组合设计", "status": "pending", "completed": 0},
-    {"batch": 9, "range": "401-450", "theme": "高级计数", "status": "pending", "completed": 0},
-    {"batch": 10, "range": "451-500", "theme": "综合挑战", "status": "pending", "completed": 0}
+    {
+      "batch": 1,
+      "range": "001-050",
+      "theme": "基础计数",
+      "status": "completed",
+      "completed": 50
+    },
+    {
+      "batch": 2,
+      "range": "051-100",
+      "theme": "排列组合",
+      "status": "completed",
+      "completed": 50
+    },
+    {
+      "batch": 3,
+      "range": "101-150",
+      "theme": "二项式定理",
+      "status": "pending",
+      "completed": 0
+    },
+    {
+      "batch": 4,
+      "range": "151-200",
+      "theme": "容斥原理",
+      "status": "pending",
+      "completed": 0
+    },
+    {
+      "batch": 5,
+      "range": "201-250",
+      "theme": "递推关系",
+      "status": "pending",
+      "completed": 0
+    },
+    {
+      "batch": 6,
+      "range": "251-300",
+      "theme": "生成函数",
+      "status": "pending",
+      "completed": 0
+    },
+    {
+      "batch": 7,
+      "range": "301-350",
+      "theme": "图论基础",
+      "status": "pending",
+      "completed": 0
+    },
+    {
+      "batch": 8,
+      "range": "351-400",
+      "theme": "组合设计",
+      "status": "pending",
+      "completed": 0
+    },
+    {
+      "batch": 9,
+      "range": "401-450",
+      "theme": "高级计数",
+      "status": "pending",
+      "completed": 0
+    },
+    {
+      "batch": 10,
+      "range": "451-500",
+      "theme": "综合挑战",
+      "status": "pending",
+      "completed": 0
+    }
   ],
   "startTime": "2026-02-15T12:48:00+08:00",
-  "lastUpdate": "2026-02-15T04:50:00+00:00"
+  "lastUpdate": "2026-02-15T05:23:46Z"
 }
